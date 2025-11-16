@@ -1,0 +1,23 @@
+Baseline vs Improved MAE on CIFAR-10
+{
+  "baseline": {
+    "final_train_loss": 0.547077958218076,
+    "train_time_min": 4.5858274300893145,
+    "reconstruction": {
+      "masked_patch_mse_norm": 0.5382491889105903,
+      "masked_patch_mse_denorm": 0.02172753202650282,
+      "masked_patch_psnr": 16.629896012515893
+    },
+    "linear_probe_val_acc_percent": 41.22
+  },
+  "improved": {
+    "final_train_loss": 0.8508422063155607,
+    "train_time_min": 38.82785806258519,
+    "reconstruction": {
+      "masked_patch_mse_norm": 0.638998946126302,
+      "masked_patch_mse_denorm": 0.025796856350368925,
+      "masked_patch_psnr": 15.884332146907038
+    },
+    "linear_probe_val_acc_percent": 41.46
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "variant": "original",
+  "lp_top1": 40.275,
+  "ft_top1": 35.5625,
+  "pretrain_time_sec": 2290.265796661377,
+  "start_epoch": 0,
+  "end_epoch": 9
+}
