@@ -1,6 +1,9 @@
 # Masked Autoencoders for Vision (MAE)
 Built a Masked Auto-Encoder (MAE) for reconstructing masked image patches using the STL-10 unlabeled dataset. Enhanced existing Auto-Encoders via curriculum‑masking technique, achieving over 5\% improvement in accuracy.
 
+<img width="418" height="844" alt="image" src="https://github.com/user-attachments/assets/e1448046-a2b3-4dcf-88de-4504ebfbf27f" />
+
+
 This repository implements a light-weight, Colab-friendly reproduction of
 Masked Autoencoders (MAE) for self-supervised visual representation learning,
 along with a compute-light set of improvements. It compares a faithful
