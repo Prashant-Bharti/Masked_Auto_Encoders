@@ -179,11 +179,11 @@ Notes:
 ---
 
 ## Outputs
-###Reconstructed output images:
+### Reconstructed output images:
 <img width="906" height="7234" alt="recon_grid (1)" src="https://github.com/user-attachments/assets/67cb0d9f-0ca5-4d35-8037-5dbdcfc5ca0a" />
 
-###Training:
+### Training:
 <img width="1185" height="477" alt="image" src="https://github.com/user-attachments/assets/921b7ebb-7a57-452c-9d77-7f7552f6a6ad" />
 
-###Results:
+### Results:
 <img width="1463" height="867" alt="image" src="https://github.com/user-attachments/assets/e812507b-f087-4758-b0b6-d8156f911540" />
