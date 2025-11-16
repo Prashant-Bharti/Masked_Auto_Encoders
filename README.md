@@ -17,14 +17,12 @@ Contents
 - Datasets
 - Model architecture
 - Training & evaluation protocol
-- Improvements (and how they help)
+- Improvements over existing methods
 - Reproducing the results
 - Visualization
-- Experimental results (expected trends)
-- Reproducibility and logs
-- How to run on Colab
+- How to run
 - Limitations and future work
-- Citations
+- Outputs and Results
 
 ---
 
@@ -124,7 +122,7 @@ Notes:
 
 ---
 
-## Improvements (how they help)
+## Improvements over existing methods
 
 - Curriculum masking: stabilizes early training, enables faster convergence at short budgets.
 - Laplacian high-frequency loss: encourages sharper edges/textures in masked regions, improving reconstruction quality.
@@ -147,7 +145,7 @@ Notes:
 
 ---
 
-## How to run (quick guide)
+## How to run 
 
 - Prereqs: Python 3.8+, PyTorch, torchvision, tqdm
 - Repo setup (clone, install, run)
