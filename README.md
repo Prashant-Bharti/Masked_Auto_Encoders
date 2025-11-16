@@ -180,6 +180,7 @@ Notes:
 
 ## Outputs
 ### Reconstructed output images:
+- Click to view:
 <img width="906" height="7234" alt="recon_grid (1)" src="https://github.com/user-attachments/assets/67cb0d9f-0ca5-4d35-8037-5dbdcfc5ca0a" />
 
 ### Training:
